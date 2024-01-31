@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+main {
+  background: #850101;
+  color: white;
+  padding: 10px;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+}
+
+section>h2 {
+  text-decoration: underline;
+}
+
+.img-cat {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.scients-list {
+  list-style: none;
+  justify-content: center;
+  margin: 2em 0 0;
+  padding: 0;
+}
+
+.learn-more-link {
+  padding: 10px;
+}
+
+.hacker-btn {
+  padding-top: 25px;
+}
+
+.main-paragraph {
+  padding: 5px 25px 5px 25px;
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: #F4F4F4;
+  padding: 15px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar a {
+  color: #000000;
+  text-decoration: none;
+  padding: 15px;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.navbar a:hover {
+  border-bottom: 2px solid #850101;
+}
+
+/*Footer*/
+
+.footer {
+  background: #F4F4F4;
+  height: 100px;
+  padding: 0px 50px;
+  color: #000000;
+  text-align: center;
+  align-items: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+.footer-copyright {
+ padding-top: 40px;
+}
+
+.footer .fa-heart {
+  color: #D23333;
+}
